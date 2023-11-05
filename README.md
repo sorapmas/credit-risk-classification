@@ -10,4 +10,5 @@ The purpose of this respistory is to use various techniques to train and evaluat
     Machine Learning 2 Model:
   Model 2, which was trained on resampled data, achieves a prediction accuracy of 99.6% for the two labels. The model demonstrates excellent performance in predicting healthy loans, with precision and recall scores both reaching 1.00. While the precision score for high-risk loans remains at 0.87, there is an improvement in the recall score to 1.00. This suggests that the model is now capable of accurately predicting all high-risk loans within the dataset.
 
+    Summary
   The analysis overall suggests that Model 2 surpasses Model 1 in forecasting high-risk loans and boasts an overall higher accuracy in predicting both labels. Specifically, Model 2 exhibits a relatively high precision in predicting high-risk loans and successfully identifies all high-risk loans in the dataset, marking a notably strong performance in this context. Therefore, I would advise employing Model 2 for the identification of high-risk loans, given its superior accuracy in label prediction.
